@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file alias="vert">Images/rondVert.png</file>
+        <file alias="bleu">Images/rondBleu.png</file>
+        <file alias="rouge">Images/rondRouge.png</file>
+    </qresource>
+</RCC>
